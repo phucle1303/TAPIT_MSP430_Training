@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\BlinkLED.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\lab2\lab2.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\lab2.1\lab21.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\lab3\lab3.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\lab3.1(led 7 doan co nut bam)\lab31(nutbam).ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\demo\led1.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
